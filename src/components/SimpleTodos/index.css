@@ -1,0 +1,19 @@
+.bg-container {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  padding: 40px 20px 40px 20px;
+}
+.info-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 40px;
+}
+.main-heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.todos-container {
+  list-style-type: none;
+  padding: 0px;
+}
